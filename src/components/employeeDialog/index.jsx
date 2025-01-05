@@ -20,7 +20,7 @@ export default function AddDialog({
   return (
     <Dialog open={open} onClose={handleClose} fullWidth>
       <DialogTitle>{`${
-        editingEmployee ? "Add" : "Edit"
+        editingEmployee ? "Edit" : "Add"
       } Employee`}</DialogTitle>
       <DialogContent>
         <TextField

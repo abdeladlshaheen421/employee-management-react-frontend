@@ -10,10 +10,42 @@
 
 ### `npm run build` to build project
 
+### Login Screen
+
 ![Project login](./result_images/login.png)
 
-![Project login](./result_images/dashboard.png)
+### Dashboard Screen
 
-![Project login](./result_images/employees.png)
+![Project Dashboard](./result_images/dashboard.png)
 
-![Project login](./result_images/departments.png)
+### Employees Screen
+
+![Project Employees screen](./result_images/employees.png)
+
+### CREATE Employees Screen
+
+![Project Create Employee](./result_images/add_emp.png)
+
+### UPDATE Employee Screen
+
+![Project Update Employee](./result_images/edit_emp.png)
+
+### DELETE Employee Screen
+
+![Project Delete Employee](./result_images/delete_emp.png)
+
+### Departments Screen
+
+![Project Departments screen](./result_images/departments.png)
+
+### CREATE Department Screen
+
+![Project Create Department](./result_images/add_dept.png)
+
+### UPDATE Department Screen
+
+![Project Update Department](./result_images/edit_dept.png)
+
+### DELETE Department Screen
+
+![Project Delete Department](./result_images/delete_dept.png)
