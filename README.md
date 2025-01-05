@@ -9,3 +9,11 @@
 ### 3 - run `npm start` to run project
 
 ### `npm run build` to build project
+
+![Project login](./result_images/login.png)
+
+![Project login](./result_images/dashboard.png)
+
+![Project login](./result_images/employees.png)
+
+![Project login](./result_images/departments.png)
